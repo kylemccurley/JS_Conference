@@ -1,22 +1,22 @@
 * {
-	margin: 0;
-	padding: 0;
-	position: relative;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
 
 html {
-	font-family: "Open Sans", Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
 }
 
 header {
-	background-image: url("../images/Front.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	text-align: center;
-	height: 425px;
-	color: white;
-	top: 55px;
-	margin-bottom: 50px;
+  background-image: url("../images/Front.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  height: 425px;
+  color: white;
+  top: 55px;
+  margin-bottom: 50px;
 }
 
 img, h1, h2 {
